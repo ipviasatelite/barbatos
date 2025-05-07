@@ -65,8 +65,10 @@ body {text-align:center;}
 .xr_c_Theme_Color_1 {color:#772E71;}
 .xr_c_Theme_Color_2 {color:#D9D7D7;}
 .xr_c_Icon_Color_2 {color:#EC461C;}
-.xr_bgb0 {background:url('1.png') -768px 3572px repeat;}
-.xr_bgb1 {background:url('1.png') -768px 4640px repeat;}
+.xr_bgb0 {background:url('1.png') -768px 3972px repeat;}
+.xr_bgb1 {background:url('1.png') -768px 5234px repeat;}
+.xr_bgb2 {background:url('1.png') -768px 1658px repeat;}
+.xr_bgb3 {background:url('1.png') -768px 1083px repeat;}
 }
 @media print {
  .xr_mvpo {display:none;}
