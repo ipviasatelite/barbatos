@@ -1,6 +1,6 @@
 window.local_cycleBottomradio_v8_0_data = [
 {
- bulletimage: "index_htm_files/6.png",
+ bulletimage: "index_htm_files/194.png",
  image: "index_htm_files/7.jpg",
  link: "#"
 },

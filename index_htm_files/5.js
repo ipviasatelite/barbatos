@@ -5,9 +5,9 @@ window.local_mosaicBlockBar1_1_data = [
  theme: "0"
 },
 {
- heading: "index_htm_files/141.png",
+ heading: "index_htm_files/249.png",
  image: "index_htm_files/142.jpg",
  link: "http://www.xara.com",
- text: "index_htm_files/143.png"
+ text: "index_htm_files/251.png"
 }
 ];
